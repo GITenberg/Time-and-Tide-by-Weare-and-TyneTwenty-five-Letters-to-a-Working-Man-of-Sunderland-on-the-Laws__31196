@@ -1,0 +1,31 @@
+_repo: Time-and-Tide-by-Weare-and-TyneTwenty-five-Letters-to-a-Working-Man-of-Sunderland-on-the-Laws__31196
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ruskin, John
+    alias: Ruskin, J. (John)
+    birthdate: 1819
+    deathdate: 1900
+    gutenberg_agent_id: '359'
+    url: http://www.gutenberg.org/2009/agents/359
+    wikipedia: http://en.wikipedia.org/wiki/John_Ruskin
+description: ''
+gutenberg_issued: '2010-02-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31196'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HD'
+- !lcsh 'Social sciences'
+- !lcsh 'Working class -- Great Britain'
+title: 'Time and Tide by Weare and Tyne
+
+  Twenty-five Letters to a Working Man of Sunderland on the Laws of Work'
+url: http://www.gutenberg.org/ebooks/31196
