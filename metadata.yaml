@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/359
     wikipedia: http://en.wikipedia.org/wiki/John_Ruskin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31196#Time-and-Tide-by-Weare-and-TyneTwenty-five-Letters-to-a-Working-Man-of-Sunderland-on-the-Laws_
 gutenberg_issued: '2010-02-06'
 gutenberg_type: Text
 identifiers:
